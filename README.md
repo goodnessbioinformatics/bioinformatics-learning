@@ -136,4 +136,4 @@ I acknowledge the original researchers for their contributions to understanding 
 
 I also acknowledge the National Center for Biotechnology Information (NCBI) for providing access to publicly available nucleotide sequence data and the Biopython development team for making valuable computational biology tools available to the research community.
 
-For additional literature and software references, see references.md.
+For additional literature and software references, see references/references.md.
