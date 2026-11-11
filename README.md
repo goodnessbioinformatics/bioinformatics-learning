@@ -89,7 +89,7 @@ An additional amino acid substitution, Alanine to Serine at position 105, was al
 
 The synonymous substitution at amino acid position 211 provided another interesting observation, demonstrating that nucleotide variation does not always result in a change to the encoded protein.
 
-For the complete mutation table, comparison with published findings, and detailed interpretation, see [results.md](results.md).
+For the complete mutation table, comparison with published findings, and detailed interpretation, see results/results.md.
 
 ## What I Learned
 
